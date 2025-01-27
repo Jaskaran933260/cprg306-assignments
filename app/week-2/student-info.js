@@ -1,3 +1,9 @@
-export default function Title() {
-    return <h1>Week 2</h1>;
+export default function StudentInfo() {
+    return (
+        <main>
+            <h1>Jaskaran Singh</h1>
+            <p>Jaskaran933260</p>
+        </main>
+
+    );
 }
